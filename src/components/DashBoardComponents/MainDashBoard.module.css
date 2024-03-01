@@ -1,0 +1,21 @@
+.outercontainermaindashboard{
+display: flex;
+align-items: start;
+/* border: 1px solid blue; */
+width: 100%;
+}
+.innercontdashboard{
+    width: 20%;
+    height: 100%;
+/* border: 1px solid blue; */
+
+}
+
+.dashboard{
+    width: 80%;  
+    /* border: 1px solid green; */
+      border-left: 2px solid;
+    border-left-color:#EDF5FE;
+
+
+}
